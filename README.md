@@ -1,5 +1,5 @@
 # Arduino_Direct_Register_Operations
-Code examples for fast operation of port-pins and internal ADC
+Code examples for fast operation of port-pins and internal ADC for UNO R3 ATmega and R4 RA4M1 processors
 
 UNO R4 RA4M1 example
 
